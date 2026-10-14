@@ -11,6 +11,12 @@ A feature-rich, interactive Flutter shopping list application built for **Week 2
 5. **Shopping List Filters:** Filter chips for **All**, **To buy**, and **Bought**. In **All** view, bought items automatically sink to the bottom. All operations (deletion, toggling, editing) remain fully robust across all filters.
 6. **Item Details Screen:** Long-press any item to open a dedicated details screen where you can edit the item name, add notes, select categories (Food, Drinks, Home), save changes, or discard edits on back navigation.
 
+## Screenshots
+
+| Main Screen with Filters & Quantities |
+| :-----------------------------------: |
+| ![Shopping List App](screenshots/shopping_list_app.png) |
+
 ## Setup & Running
 
 1. Ensure Flutter SDK is installed.
